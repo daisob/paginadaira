@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/a2/46/58/a246589628cf6a1d441d235784984819.png");
+}
+ol li{
+    color:darkmagenta;
+}
+
+h1{
+   color: #e3327c;
+}
+
+h3{
+    color:fuchsia;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Teko:wght@600&display=swap');
+
+p {
+  font-family: 'Dancing Script', cursive;
+}
+
+.parrafoprincipal{
+    color:coral;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Dancing+Script&family=Teko:wght@600&display=swap');
+
+#titulosecundario{
+    font-family:  'Bangers', cursive;
+}
